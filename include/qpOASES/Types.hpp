@@ -38,7 +38,7 @@
 
 /* If your compiler does not support the snprintf() function,
  * uncomment the following line and try to compile again. */
-/* #define __NO_SNPRINTF__ */
+#define __NO_SNPRINTF__
 
 
 /* Uncomment the following line for setting the __DSPACE__ flag. */
